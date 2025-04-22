@@ -131,6 +131,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e processar conteúdo web em formatos amigáveis para IA.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Um servidor MCP que suporta a pesquisa de conteúdo do Bilibili. Fornece exemplos de integração com LangChain e scripts de teste.
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - Navegador autogerenciado com agente integrado, com suporte nativo a MCP e A2A.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Um servidor MCP para automação de navegador usando Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Um servidor MCP em python usando Playwright para automação de navegador, mais adequado para LLM
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automatize interações do navegador na nuvem (por exemplo, navegação web, extração de dados, preenchimento de formulários e mais)
@@ -425,6 +426,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Exponha todas as intenções de voz do Home Assistant através de um servidor de Protocolo de Contexto de Modelo permitindo controle doméstico.
 - [Amazon Bedrock Nova Canvas](https://github.com/zxkane/mcp-server-amazon-bedrock) 📇 ☁️ - Use o modelo Amazon Nova Canvas para geração de imagens.
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - Envie solicitações para OpenAI, MistralAI, Anthropic, xAI, Google AI ou DeepSeek usando o protocolo MCP via ferramenta ou prompts predefinidos. Chave de API do fornecedor necessária
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - Use ferramentas regulares de definição de mutação/consulta GraphQL e o gqai gerará automaticamente um servidor MCP para você.
 
 ## Frameworks
 
