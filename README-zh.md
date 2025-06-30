@@ -137,6 +137,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 云平台服务集成。实现与云基础设施和服务的管理和交互。
 
+- [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - 面向4EVERLAND Hosting的MCP服务器实现，支持AI生成的代码快速部署到去中心化存储网络，如Greenfield、IPFS和Arweave。
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 基于七牛云产品构建的 MCP，支持访问七牛云存储、智能多媒体服务等。
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 与 Cloudflare 服务集成，包括 Workers、KV、R2 和 D1
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - 上传和操作 IPFS 存储
@@ -187,11 +188,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - 一款通过模型上下文协议（MCP）安全连接iMessage数据库的MCP服务器，支持大语言模型查询与分析iMessage对话。该系统具备完善的电话号码验证、附件处理、联系人管理、群聊操作功能，并全面支持消息收发。
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 这是一个与VRChat API交互的MCP服务器。您可以获取VRChat的好友、世界、化身等信息。
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - 整合 LINE 官方账号的 MCP 服务器
-- [ztxtxwd/feishu-mcp-server](https://github.com/ztxtxwd/feishu-mcp-server) 📇 ☁️ 🏠 - 一个内置飞书OAuth认证的模型上下文协议(MCP)服务器，支持远程连接并提供全面的飞书文档管理工具，包括块创建、内容更新和高级功能。
+- [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - 一个内置飞书OAuth认证的模型上下文协议(MCP)服务器，支持远程连接并提供全面的飞书文档管理工具，包括块创建、内容更新和高级功能。
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - 一个用于连接Google Tasks API的MCP服务器
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) 通过使用 ntfy 向手机发送通知，实时更新信息的 MCP 服务器。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 一个通过 YCloud 平台发送 WhatsApp Business 消息的 MCP 服务器。
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 服务器。与热门帖子、评论、收藏集、用户等进行交互。
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - 用于 Cal.com 的 MCP 服务器。通过 LLM 管理事件类型、创建预约，并访问 Cal.com 的日程数据。
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中实现的 Telegram + Claude，支持手机端访问本地工作区。随时随地读写代码并 vibe code！
 
 ### 👤 <a name="customer-data-platforms"></a>客户数据平台
@@ -249,6 +251,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - 连接到任何兼容JDBC的数据库，执行查询、插入、更新、删除等操作。
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - 查询和分析Azure Data Explorer数据库
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ -  查询并分析开源监控系统Prometheus。
+- [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - 使 LLM 能够管理 Prisma Postgres 数据库（例如创建新数据库并运行迁移或查询）。
 - [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) 📇 ☁️ — 用于通过 Neon Serverless Postgres 创建和管理 Postgres 数据库的MCP服务器
 - [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) 📇 ☁️ — 一个支持通过自然语言查询从数据库获取数据的MCP服务器，由XiyanSQL作为文本转SQL的大语言模型提供支持。
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) 📇 🏠 – 支持主流数据库的通用数据库MCP服务器。
@@ -315,6 +318,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查询 pkg.go.dev 上的 golang 包信息
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP服务器通过将用户的自然语言指令转换为ROS或ROS2控制指令，以支持机器人的控制。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的命令列工具（CLI）。通過 gk mcp 提供一個 MCP 伺服器，不僅封裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等多種服務。可與本地工具和遠端服務協同運作。
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP服务器是一个基于MCP构建的服务器，允许用户通过由大语言模型解释的自然语言指令来控制Unitree Go2机器人。
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
 
