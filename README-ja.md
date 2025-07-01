@@ -144,6 +144,7 @@
 
 クラウドプラットフォームサービスの統合。クラウドインフラストラクチャとサービスの管理と対話を可能にします。
 
+- [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - fastmcp ライブラリと統合し、NebulaBlock のすべての API 機能をツールとして提供します。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - Greenfield、IPFS、Arweaveなどの分散型ストレージネットワークにAI生成コードをすぐにデプロイできる4EVERLAND Hosting用MCPサーバー実装。
 - [awslabs/mcp](https://github.com/awslabs/mcp) 🎖️ ☁️ - AWSサービスとリソースとのシームレスな統合のためのAWS MCPサーバー。
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 七牛クラウド製品に基づいて構築されたMCP、七牛クラウドストレージ、メディア処理サービスなどへのアクセスをサポート。
@@ -375,6 +376,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️🏠 - MCP-K8Sは、AI駆動のKubernetesリソース管理ツールで、自然言語インタラクションを通じて、ユーザーがKubernetesクラスター内の任意のリソース（ネイティブリソース（DeploymentやServiceなど）やカスタムリソース（CRD）を含む）を操作できるようにします。複雑なコマンドを覚える必要はなく、要件を説明するだけで、AIが対応するクラスター操作を正確に実行し、Kubernetesの使いやすさを大幅に向上させます。
 - [redis/mcp-redis-cloud](https://github.com/redis/mcp-redis-cloud) 📇 ☁️ - 自然言語を使用してRedis Cloudリソースを簡単に管理。データベースの作成、サブスクリプションの監視、シンプルなコマンドでクラウドデプロイメントの設定。
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️🏠 - 強力なMCPサーバーで、AIアシスタントがPortainerインスタンスとシームレスに連携し、コンテナ管理、デプロイメント操作、インフラストラクチャ監視機能に自然言語でアクセスできるようにします。
+- [optuna/optuna-mcp](https://github.com/optuna/optuna-mcp) 🎖️ 🐍 🏠 🐧 🍎 - [Optuna](https://optuna.org/)と連携し、ハイパーパラメータ探索をはじめとする各種最適化タスクのシームレスなオーケストレーションを可能にする公式MCPサーバー。
 
 ### 📂 <a name="file-systems"></a>ファイルシステム
 
@@ -447,6 +449,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocolサービスは、MCPエコシステム内で離れることなくWeb検索を可能にするGoogle SERP APIへのMCPサーバコネクタとして機能します。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Braveの検索APIを使用したWeb検索機能
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - DappierのMCPサーバーで、信頼できるメディアブランドからのニュース、金融市場、スポーツ、エンタメ、天気などのプレミアムデータへのリアルタイムアクセスと、高速なWeb検索をAIエージェントに提供します。
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - [Dumpling AI](https://www.dumplingai.com/) によるデータ取得、Webスクレイピング、ドキュメント変換API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - NYTimes APIを使用して記事を検索
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - AI消費のための効率的なWebコンテンツの取得と処理

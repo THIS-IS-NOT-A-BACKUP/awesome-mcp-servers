@@ -133,6 +133,7 @@
 
 클라우드 플랫폼 서비스 통합. 클라우드 인프라 및 서비스의 관리 및 상호 작용을 가능하게 합니다.
 
+- [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - fastmcp 라이브러리와 통합하여 NebulaBlock의 모든 API 기능을 도구로 제공합니다。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - Greenfield, IPFS, Arweave와 같은 분산 스토리지 네트워크에 AI 생성 코드를 즉시 배포할 수 있는 4EVERLAND Hosting용 MCP 서버 구현.
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 치니우안(七牛云) 제품으로 구축된 MCP는 치니우안 스토리지, 지능형 멀티미디어 서비스 등에 접근할 수 있습니다.
 - [Cloudflare MCP 서버](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers, KV, R2 및 D1을 포함한 Cloudflare 서비스와의 통합
@@ -401,6 +402,7 @@
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - NYTimes API를 사용하여 기사 검색
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - AI 소비를 위한 효율적인 웹 콘텐츠 가져오기 및 처리
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi 검색 API 통합
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Dappier MCP 서버는 신뢰할 수 있는 미디어 브랜드의 뉴스, 금융 시장, 스포츠, 엔터테인먼트, 날씨 등의 프리미엄 데이터와 빠르고 무료인 실시간 웹 검색 기능을 AI 에이전트에 제공합니다.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – 모델 컨텍스트 프로토콜(MCP) 서버는 Claude와 같은 AI 어시스턴트가 웹 검색을 위해 Exa AI 검색 API를 사용할 수 있게 합니다. 이 설정은 AI 모델이 안전하고 통제된 방식으로 실시간 웹 정보를 얻을 수 있도록 합니다.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - search1api를 통한 검색 (유료 API 키 필요)
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI 검색 API
