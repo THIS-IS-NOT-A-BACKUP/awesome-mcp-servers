@@ -107,6 +107,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 
 Servidores para acessar muitos aplicativos e ferramentas por meio de um único servidor MCP.
 
+- [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - Uma implementação de servidor MCP unificado que agrega vários servidores MCP em um único servidor.
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Consulte mais de 40 aplicativos com um único binário usando SQL. Também pode se conectar ao seu banco de dados compatível com PostgreSQL, MySQL ou SQLite. Local primeiro e privado por design.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Conecte-se a 2.500 APIs com mais de 8.000 ferramentas pré-construídas e gerencie servidores para seus usuários, em seu próprio aplicativo.
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Transforme uma API web em um servidor MCP em 10 segundos e adicione-o ao registro de código aberto: https://open-mcp.org
@@ -134,7 +135,6 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e processar conteúdo web em formatos amigáveis para IA.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Um servidor MCP que suporta a pesquisa de conteúdo do Bilibili. Fornece exemplos de integração com LangChain e scripts de teste.
-- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - Navegador autogerenciado com agente integrado, com suporte nativo a MCP e A2A.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Um servidor MCP para automação de navegador usando Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Um servidor MCP em python usando Playwright para automação de navegador, mais adequado para LLM
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automatize interações do navegador na nuvem (por exemplo, navegação web, extração de dados, preenchimento de formulários e mais)
@@ -443,7 +443,6 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - Operações diretas de repositório Git incluindo leitura, pesquisa e análise de repositórios locais
 - [modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) 📇 ☁️ - Integração com a API GitHub para gerenciamento de repositórios, PRs, problemas e mais
 - [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - Integração com a plataforma GitLab para gerenciamento de projetos e operações de CI/CD
-- [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Integração com a API Gitee, gerenciamento de repositório, problemas e pull requests, e muito mais.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Integração com Azure DevOps para gerenciamento de repositórios, itens de trabalho e pipelines.
 
 ### 🛠️ <a name="outras-ferramentas-e-integrações"></a>Outras Ferramentas e Integrações
