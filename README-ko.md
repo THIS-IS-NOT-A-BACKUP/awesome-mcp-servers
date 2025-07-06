@@ -394,6 +394,7 @@
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Logfire를 통해 OpenTelemetry 추적 및 메트릭에 대한 접근 제공
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 모델 컨텍스트 프로토콜(MCP)을 통해 시스템 메트릭을 노출하는 시스템 모니터링 도구. 이 도구를 사용하면 LLM이 MCP 호환 인터페이스를 통해 실시간 시스템 정보를 검색할 수 있습니다. (CPU, 메모리, 디스크, 네트워크, 호스트, 프로세스 지원)
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 복잡성에서 보안 취약점에 이르기까지 10가지 중요한 차원에 걸쳐 지능적이고 프롬프트 기반 분석을 통해 AI 생성 코드 품질 향상
+- [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - 다운로드/업로드 속도, 레이턴시, 지터 분석, 지리적 매핑을 포함한 CDN 서버 감지를 포함한 네트워크 성능 지표를 통한 인터넷 속도 테스트
 
 ### 🔎 <a name="search"></a>검색
 
@@ -481,6 +482,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>기타 도구 및 통합
 
+- [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 중국어 문자를 포함한 모든 텍스트를 QR 코드로 변환하고 사용자 정의 색상 및 base64 인코딩 출력을 지원하는 QR 코드 생성 MCP 서버.
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 액터라고 알려진 3,000개 이상의 사전 구축된 클라우드 도구를 사용하여 웹사이트, 전자 상거래, 소셜 미디어, 검색 엔진, 지도 등에서 데이터 추출
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Contentful Space에서 콘텐츠, 콘텐츠 모델 및 에셋 업데이트, 생성, 삭제
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAI의 가장 똑똑한 모델과 채팅

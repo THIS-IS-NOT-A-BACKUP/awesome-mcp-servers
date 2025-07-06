@@ -372,6 +372,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Um servidor MCP que permite consultar logs do Loki através da API do Grafana.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Pesquise painéis, investigue incidentes e consulte fontes de dados em sua instância Grafana
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - Melhore a qualidade do código gerado por IA através de análise inteligente baseada em prompts em 10 dimensões críticas, de complexidade a vulnerabilidades de segurança
+- [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - Teste de velocidade de internet com métricas de desempenho de rede incluindo velocidade de download/upload, latência, análise de jitter e detecção de servidor CDN com mapeamento geográfico
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Traga facilmente o contexto de produção em tempo real—logs, métricas e traces—para seu ambiente local para corrigir código automaticamente mais rápido
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Consulte e interaja com ambientes kubernetes monitorados por Metoro
 - [MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Integração com a API V3 Raygun para relatórios de falhas e monitoramento de usuários reais
@@ -448,6 +449,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 
 ### 🛠️ <a name="outras-ferramentas-e-integrações"></a>Outras Ferramentas e Integrações
 
+- [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - Servidor MCP de geração de código QR que converte qualquer texto (incluindo caracteres chineses) em códigos QR com cores personalizáveis e saída de codificação base64.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ Um servidor de Protocolo de Contexto de Modelo (MCP) que permite que modelos de IA interajam com Bitcoin, permitindo gerar chaves, validar endereços, decodificar transações, consultar a blockchain e muito mais.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - Permite que a IA leia de suas Notas Bear (somente macOS)
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Exponha todas as intenções de voz do Home Assistant através de um servidor de Protocolo de Contexto de Modelo permitindo controle doméstico.

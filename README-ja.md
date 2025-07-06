@@ -428,6 +428,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Grafanaインスタンスでダッシュボードを検索し、インシデントを調査し、データソースをクエリ
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Grafana APIを通じてLokiログをクエリできるMCPサーバー。
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 複雑さからセキュリティ脆弱性まで、10の重要な次元でインテリジェントでプロンプトベースの分析によってAI生成コードの品質を向上
+- [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - ダウンロード/アップロード速度、レイテンシ、ジッター分析、地理的マッピング付きCDNサーバー検出を含むネットワークパフォーマンスメトリクスによるインターネット速度テスト
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - リアルタイム本番コンテキスト（ログ、メトリクス、トレース）をローカル環境にシームレスに持ち込み、コードをより高速に自動修正
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoroによって監視されるKubernetes環境をクエリおよび対話
 - [MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - クラッシュレポートとリアルユーザーモニタリングのためのRaygun API V3統合
@@ -516,6 +517,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
+- [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 任意のテキスト（日本語文字を含む）をQRコードに変換し、カスタマイズ可能な色とbase64エンコード出力をサポートするQRコード生成MCPサーバー。
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ AIモデルがBitcoinと相互作用できるModel Context Protocol（MCP）サーバー。キー生成、アドレス検証、トランザクションデコード、ブロックチェーンクエリなどが可能
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - AIがBear Notes（macOSのみ）から読み取り可能にする
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Model Context Protocolサーバーを通じてすべてのHome Assistant音声インテントを公開し、ホーム制御を可能にする
