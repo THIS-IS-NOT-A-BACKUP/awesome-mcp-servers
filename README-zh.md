@@ -318,8 +318,10 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基于 EdgeOne Pages 的 MCP 服务器，支持代码部署为在线页面。
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查询 pkg.go.dev 上的 golang 包信息
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP服务器通过将用户的自然语言指令转换为ROS或ROS2控制指令，以支持机器人的控制。
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - 从 Storybook 设计系统中提取组件信息。提供 HTML、样式、props、依赖项、主题令牌和组件元数据，用于 AI 驱动的设计系统分析。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的命令列工具（CLI）。通過 gk mcp 提供一個 MCP 伺服器，不僅封裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等多種服務。可與本地工具和遠端服務協同運作。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP服务器是一个基于MCP构建的服务器，允许用户通过由大语言模型解释的自然语言指令来控制Unitree Go2机器人。
+- [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) 📇 ☁️ 🏠 - mcp-swagger-server将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式,以支持ai客户端调用。
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
 
@@ -336,6 +338,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - 直接访问本地文件系统。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive 集成，用于列出、阅读和搜索文件
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 原生目录可视化，具有语义分析、AI 消费的超压缩格式和 10 倍令牌减少。支持具有智能文件分类的量子语义模式。
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Box 集成，支持文件列表、阅读和搜索功能
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - 用于本地文件系统访问的 Golang 实现。
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - 使用 Everything SDK 实现的快速 Windows 文件搜索
@@ -526,6 +529,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - 一个基于Web的PlantUML前端，集成MCP服务器，支持PlantUML图像生成和语法验证。
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - QR码生成MCP服务器，可将任何文本（包括中文字符）转换为QR码，支持自定义颜色和base64编码输出。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超过 3,000 个预构建的云工具（称为 Actors）从网站、电商、社交媒体、搜索引擎、地图等提取数据。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能够使用计算器进行精确的数值计算

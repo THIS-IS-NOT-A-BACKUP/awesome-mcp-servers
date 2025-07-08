@@ -292,6 +292,7 @@
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - EdgeOne Pages에 HTML 콘텐츠를 배포하고 공개적으로 접근 가능한 URL을 얻기 위한 MCP 서비스입니다.
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 상태 유지 세션, SSH 연결, 백그라운드 프로세스 관리로 AI 에이전트가 대화형 터미널을 제어할 수 있게 하는 PTY 작업용 AI 파일럿
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP 서버는 사용자의 자연어 명령을 ROS 또는 ROS2 제어 명령으로 변환함으로써 로봇의 제어를 지원합니다.
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - Storybook 디자인 시스템에서 컴포넌트 정보를 추출합니다. HTML, 스타일, props, 의존성, 테마 토큰 및 컴포넌트 메타데이터를 제공하여 AI 기반 디자인 시스템 분석을 지원합니다.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken API와 상호작용하기 위한 CLI입니다. gk mcp를 통해 MCP 서버를 포함하고 있으며, GitKraken API뿐만 아니라 Jira, GitHub, GitLab 등도 래핑합니다. 로컬 도구 및 원격 서비스와 함께 작동합니다.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP 서버는 MCP 기반으로 구축된 서버로, 사용자가 LLM이 해석한 자연어 명령을 통해 Unitree Go2 로봇을 제어할 수 있도록 해줍니다.
 
@@ -309,6 +310,7 @@
 
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - 로컬 파일 시스템 직접 접근.
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Google Drive 통합
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 네이티브 디렉토리 시각화. 의미 분석, AI 소비를 위한 초압축 형식, 10배 토큰 감소 지원. 지능형 파일 분류를 갖춘 양자 의미 모드 지원.
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Box 통합
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - 로컬 파일 시스템 접근을 위한 Golang 구현.
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - Everything SDK를 사용한 빠른 Windows 파일 검색
@@ -482,6 +484,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>기타 도구 및 통합
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - MCP 서버 통합을 갖춘 웹 기반 PlantUML 프론트엔드로, PlantUML 이미지 생성 및 구문 검증을 지원합니다.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 중국어 문자를 포함한 모든 텍스트를 QR 코드로 변환하고 사용자 정의 색상 및 base64 인코딩 출력을 지원하는 QR 코드 생성 MCP 서버.
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 액터라고 알려진 3,000개 이상의 사전 구축된 클라우드 도구를 사용하여 웹사이트, 전자 상거래, 소셜 미디어, 검색 엔진, 지도 등에서 데이터 추출
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Contentful Space에서 콘텐츠, 콘텐츠 모델 및 에셋 업데이트, 생성, 삭제

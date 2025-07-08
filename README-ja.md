@@ -306,6 +306,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - Docker 経由でローカルにコードを実行し、複数のプログラミング言語をサポートする MCP サーバー
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - EdgeOne Pagesに HTMLコンテンツをデプロイし、公開アクセス可能なURLを取得するためのMCPサービスです。
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCPサーバーは、ユーザーの自然言語コマンドをROSまたはROS2の制御コマンドに変換することで、ロボットの制御を支援します。
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - Storybookデザインシステムからコンポーネント情報を抽出します。HTML、スタイル、props、依存関係、テーマトークン、コンポーネントメタデータを提供し、AIによるデザインシステム分析を可能にします。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken の API とやり取りするための CLI。gk mcp 経由で MCP サーバーも含まれており、GitKraken の API だけでなく、Jira、GitHub、GitLab などもラップします。ローカルツールやリモートサービスとも連携可能です。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCPサーバーは、MCP上に構築されたサーバーで、大規模言語モデル（LLM）によって解釈された自然言語コマンドを使用して、ユーザーがUnitree Go2ロボットを制御できるようにします。
 
@@ -383,6 +384,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - ローカルファイルシステムへの直接アクセス。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI ネイティブのディレクトリ可視化。セマンティック分析、AI 消費用の超圧縮フォーマット、10倍のトークン削減をサポート。インテリジェントなファイル分類を備えた量子セマンティックモードをサポート。
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - AI Chatの長さ制限に適応するファイルマージツール
@@ -517,6 +519,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - MCPサーバー統合を備えたWebベースのPlantUMLフロントエンド。PlantUML画像生成と構文検証を可能にします。
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 任意のテキスト（日本語文字を含む）をQRコードに変換し、カスタマイズ可能な色とbase64エンコード出力をサポートするQRコード生成MCPサーバー。
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ AIモデルがBitcoinと相互作用できるModel Context Protocol（MCP）サーバー。キー生成、アドレス検証、トランザクションデコード、ブロックチェーンクエリなどが可能
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - AIがBear Notes（macOSのみ）から読み取り可能にする

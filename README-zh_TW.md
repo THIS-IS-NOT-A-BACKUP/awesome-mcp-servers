@@ -253,6 +253,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一個MCP伺服器，用於在本地透過docker運行程式碼，並支援多種程式語言。
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基於 EdgeOne Pages 的 MCP 伺服器，支援代碼部署為在線頁面。
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP伺服器透過將使用者的自然語言指令轉換為ROS或ROS2控制指令，以支援機器人的控制。
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - 從 Storybook 設計系統中提取元件資訊。提供 HTML、樣式、props、依賴項、主題令牌和元件元資料，用於 AI 驅動的設計系統分析。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的 CLI。透過 gk mcp 包含一個 MCP 伺服器，不僅包裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等等。可搭配本地工具與遠端服務使用。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP伺服器是一個基於MCP構建的伺服器，允許使用者透過由大型語言模型解讀的自然語言指令來控制Unitree Go2機器人。
 
@@ -275,6 +276,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - 直接訪問本地文件系統。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive 集成，用於列出、閱讀和搜尋文件
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 原生目錄視覺化，具有語義分析、AI 消費的超壓縮格式和 10 倍令牌減少。支援具有智能文件分類的量子語義模式。
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Box 集成，支援文件列表、閱讀和搜尋功能
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - 用於本地文件系統訪問的 Golang 實現。
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - 使用 Everything SDK 實現的快速 Windows 文件搜尋
@@ -412,6 +414,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - 一個基於Web的PlantUML前端，整合MCP伺服器，支援PlantUML圖像生成和語法驗證。
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - QR碼生成MCP伺服器，可將任何文字（包括中文字符）轉換為QR碼，支援自訂顏色和base64編碼輸出。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超過 3,000 個預構建的雲工具（稱為 Actors）從網站、電商、社交媒體、搜尋引擎、地圖等提取數據。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能夠使用計算機進行精確的數值計算

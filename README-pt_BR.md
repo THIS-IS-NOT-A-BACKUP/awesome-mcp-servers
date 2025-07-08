@@ -270,6 +270,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 Servidor MCP que oferece suporte à consulta e gerenciamento de todos os recursos no [Apache APISIX](https://github.com/apache/apisix).
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - Piloto de IA para operações PTY que permite aos agentes controlar terminais interativos com sessões com estado, conexões SSH e gerenciamento de processos em segundo plano
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - O servidor ROS MCP auxilia no controle de robôs convertendo comandos em linguagem natural do usuário em comandos de controle para ROS ou ROS2.
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - Extrai informações de componentes de sistemas de design Storybook. Fornece HTML, estilos, propriedades, dependências, tokens de tema e metadados de componentes para análise de sistemas de design com IA.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - Uma CLI para interagir com as APIs do GitKraken. Inclui um servidor MCP via gk mcp que envolve não apenas as APIs do GitKraken, mas também Jira, GitHub, GitLab e outros. Funciona com ferramentas locais e serviços remotos.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - O servidor Unitree Go2 MCP é um servidor construído sobre o MCP que permite aos usuários controlar o robô Unitree Go2 usando comandos em linguagem natural interpretados por um modelo de linguagem grande (LLM).
 
@@ -293,6 +294,7 @@ Fornece acesso a documentação e atalhos para trabalhar em dispositivos embarca
 
 Fornece acesso direto aos sistemas de arquivos locais com permissões configuráveis. Permite que modelos de IA leiam, escrevam e gerenciem arquivos dentro de diretórios especificados.
 
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - Visualização de diretório nativa para IA com análise semântica, formatos ultra-comprimidos para consumo de IA e redução de tokens 10x. Suporta modo quântico-semântico com categorização inteligente de arquivos.
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - Compartilhe contexto de código com LLMs via MCP ou área de transferência
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 🏎️ 🏠 - Ferramenta de mesclagem de arquivos, adequada para limites de comprimento de chat de IA.
 - [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - Um sistema de arquivos que permite navegar e editar arquivos implementado em Java usando Quarkus. Disponível como jar ou imagem nativa.
@@ -449,6 +451,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 
 ### 🛠️ <a name="outras-ferramentas-e-integrações"></a>Outras Ferramentas e Integrações
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - Um frontend PlantUML baseado na web com integração de servidor MCP, permitindo geração de imagens PlantUML e validação de sintaxe.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - Servidor MCP de geração de código QR que converte qualquer texto (incluindo caracteres chineses) em códigos QR com cores personalizáveis e saída de codificação base64.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ Um servidor de Protocolo de Contexto de Modelo (MCP) que permite que modelos de IA interajam com Bitcoin, permitindo gerar chaves, validar endereços, decodificar transações, consultar a blockchain e muito mais.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - Permite que a IA leia de suas Notas Bear (somente macOS)
