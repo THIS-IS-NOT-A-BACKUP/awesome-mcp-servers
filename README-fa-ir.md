@@ -94,6 +94,7 @@
 * 🛠️ - [ابزارهای توسعه‌دهنده](#developer-tools)
 * 🧮 - [ابزارهای علم داده](#data-science-tools)
 * 📟 - [سیستم تعبیه‌شده](#embedded-system)
+* 🌳 - [زیست بوم و طبیعت](#environment-and-nature)
 * 📂 - [سیستم‌های فایل](#file-systems)
 * 💰 - [مالی و فین‌تک](#finance--fintech)
 * 🎮 - [بازی](#gaming)
@@ -150,6 +151,7 @@
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - یک سرور MCP برای API کتابخانه باز که به دستیاران هوش مصنوعی امکان جستجوی اطلاعات کتاب را می‌دهد.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - یک سرور MCP محلی که با استفاده از Manim انیمیشن تولید می‌کند.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - سرور MCP برای کار با Blender
+- [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - یک ام سی پی سرور برای دسترسی به بخش ها و اشعار و توضیحات شاهنامه فردوسی حماسه بزرگ فارسی
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - اضافه کردن، تحلیل، جستجو و تولید ویرایش‌های ویدیویی از مجموعه Video Jungle شما
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - نمودار و تحلیل جامع و دقیق Bazi (طالع‌بینی چینی) را ارائه می‌دهد
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - سرور MCP برای تعامل با API Discogs
@@ -655,6 +657,12 @@
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - یک سرور MCP که به سیستم‌های صنعتی فعال OPC UA متصل می‌شود.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - یک ربات فوق‌العاده-کاوایی تعبیه‌شده M5Stack مبتنی بر JavaScript با عملکرد سرور MCP برای تعاملات و احساسات کنترل شده توسط هوش مصنوعی.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - یک سرور MCP برای GNU Radio که به LLMها امکان ایجاد و تغییر خودکار فلوچارت‌های RF `.grc` را می‌دهد.
+
+### 🌳 <a name="environment-and-nature"></a>زیست بوم و طبیعت
+
+دسترسی به داده‌های محیطی و ابزارها، خدمات و اطلاعات مرتبط با طبیعت را فراهم می‌کند.
+
+- [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - ،یک ام سی پی سرور برای شناسایی، نظارت و تحلیل آتش‌سوزی‌های احتمالی در سراسر جهان با استفاده از منابع داده متعدد از جمله NASA FIRMS، OpenWeatherMap و Google Earth Engine.
 
 ### 📂 <a name="file-systems"></a>سیستم‌های فایل
 
